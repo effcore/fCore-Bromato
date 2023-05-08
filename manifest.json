@@ -12,7 +12,7 @@
 			"incompatibilities": [
 				""
 			],
-			"authors": ["Kevin Klein"],
+			"authors": ["fCore"],
 			"compatible_mod_loader_version": "3.0.0",
 			"compatible_game_version": ["0.6.1.6"],
 			"config_defaults": {}
