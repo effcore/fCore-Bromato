@@ -10,12 +10,14 @@ Another Brotato Mod.
 ## Features
 ### Characters
 * Baby Groot
+* Batman
+* (tba)
 
 ### Items
-* ...
+* (tba)
 
 ### Challenges
-* ...
+* (tba)
 
  ## Notes
  Workshop ID 2973127975
