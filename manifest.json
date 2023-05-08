@@ -3,7 +3,7 @@
 	"namespace": "fCore",
 	"version_number": "0.0.1",
 	"description": "Let's start with a new character (Baby Groot)",
-	"website_url": "https://github.com/example/repo",
+	"website_url": "https://github.com/effcore/fCore-Bromato.git",
 	"dependencies": [
 		"Darkly77-ContentLoader"
 	],
