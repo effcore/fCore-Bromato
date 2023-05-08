@@ -7,16 +7,16 @@ Another Brotato Mod.
 * [ContentLoader](https://github.com/BrotatoMods/Brotato-ContentLoader/)
 * [Brotils](https://github.com/BrotatoMods/Brotato-Brotils/)
 
-## Features
-### Characters
+## Added Content
+### New Characters
 * Baby Groot
 * Batman
 * (tba)
 
-### Items
+### New Items
 * (tba)
 
-### Challenges
+### New Challenges
 * (tba)
 
  ## Notes
