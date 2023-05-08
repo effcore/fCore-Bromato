@@ -1,0 +1,19 @@
+[gd_resource type="Resource" load_steps=3 format=2]
+
+[ext_resource path="res://items/global/item_data.gd" type="Script" id=1]
+[ext_resource path="res://mods-unpacked/fCore-Bromato/content/items/bromato_hourglass_icon.png" type="Texture" id=2]
+
+[resource]
+resource_name = "Bromato_Hourglass"
+script = ExtResource( 1 )
+my_id = ""
+unlocked_by_default = true
+icon = ExtResource( 2 )
+name = "ITEM_HOURGLASS"
+tier = 0
+value = 1
+effects = [  ]
+tracking_text = ""
+max_nb = -1
+item_appearances = [  ]
+tags = [  ]

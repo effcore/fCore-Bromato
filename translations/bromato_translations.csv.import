@@ -1,0 +1,17 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://cdv5n6y85vdso"
+
+[deps]
+
+files=["res://mods-unpacked/fCore-Bromato/translations/bromato_translations.aa.translation", "res://mods-unpacked/fCore-Bromato/translations/bromato_translations.en.translation", "res://mods-unpacked/fCore-Bromato/translations/bromato_translations.fr.translation", "res://mods-unpacked/fCore-Bromato/translations/bromato_translations.zh.translation", "res://mods-unpacked/fCore-Bromato/translations/bromato_translations.ja.translation", "res://mods-unpacked/fCore-Bromato/translations/bromato_translations.ko.translation", "res://mods-unpacked/fCore-Bromato/translations/bromato_translations.zh_TW.translation", "res://mods-unpacked/fCore-Bromato/translations/bromato_translations.ru.translation", "res://mods-unpacked/fCore-Bromato/translations/bromato_translations.pl.translation", "res://mods-unpacked/fCore-Bromato/translations/bromato_translations.es.translation", "res://mods-unpacked/fCore-Bromato/translations/bromato_translations.pt.translation", "res://mods-unpacked/fCore-Bromato/translations/bromato_translations.de.translation", "res://mods-unpacked/fCore-Bromato/translations/bromato_translations.tr.translation", "res://mods-unpacked/fCore-Bromato/translations/bromato_translations.it.translation"]
+
+source_file="res://mods-unpacked/fCore-Bromato/translations/bromato_translations.csv"
+dest_files=["res://mods-unpacked/fCore-Bromato/translations/bromato_translations.aa.translation", "res://mods-unpacked/fCore-Bromato/translations/bromato_translations.en.translation", "res://mods-unpacked/fCore-Bromato/translations/bromato_translations.fr.translation", "res://mods-unpacked/fCore-Bromato/translations/bromato_translations.zh.translation", "res://mods-unpacked/fCore-Bromato/translations/bromato_translations.ja.translation", "res://mods-unpacked/fCore-Bromato/translations/bromato_translations.ko.translation", "res://mods-unpacked/fCore-Bromato/translations/bromato_translations.zh_TW.translation", "res://mods-unpacked/fCore-Bromato/translations/bromato_translations.ru.translation", "res://mods-unpacked/fCore-Bromato/translations/bromato_translations.pl.translation", "res://mods-unpacked/fCore-Bromato/translations/bromato_translations.es.translation", "res://mods-unpacked/fCore-Bromato/translations/bromato_translations.pt.translation", "res://mods-unpacked/fCore-Bromato/translations/bromato_translations.de.translation", "res://mods-unpacked/fCore-Bromato/translations/bromato_translations.tr.translation", "res://mods-unpacked/fCore-Bromato/translations/bromato_translations.it.translation"]
+
+[params]
+
+compress=true
+delimiter=0
