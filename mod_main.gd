@@ -18,6 +18,18 @@ func _init(modLoader = ModLoader):
 
 	# Add translations
 	modLoader.add_translation_from_resource(trans_dir + "bromato_translations.de.translation")
+	modLoader.add_translation_from_resource(trans_dir + "bromato_translations.en.translation")
+	modLoader.add_translation_from_resource(trans_dir + "bromato_translations.es.translation")
+	modLoader.add_translation_from_resource(trans_dir + "bromato_translations.fr.translation")
+	modLoader.add_translation_from_resource(trans_dir + "bromato_translations.it.translation")
+	modLoader.add_translation_from_resource(trans_dir + "bromato_translations.ja.translation")
+	modLoader.add_translation_from_resource(trans_dir + "bromato_translations.ko.translation")
+	modLoader.add_translation_from_resource(trans_dir + "bromato_translations.pl.translation")
+	modLoader.add_translation_from_resource(trans_dir + "bromato_translations.pt.translation")
+	modLoader.add_translation_from_resource(trans_dir + "bromato_translations.ru.translation")
+	modLoader.add_translation_from_resource(trans_dir + "bromato_translations.tr.translation")
+	modLoader.add_translation_from_resource(trans_dir + "bromato_translations.zh.translation")
+	modLoader.add_translation_from_resource(trans_dir + "bromato_translations.zh_TW.translation")
 
 func _ready()->void:
 	# Get the ContentLoader class
