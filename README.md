@@ -14,6 +14,7 @@ Another Brotato Mod. This mod adds numerous new characters, items, weapons and c
 
 ### New Items
 * Mad Milk (-5 Enemy Speed)
+* Energy Drink (+5 Attack Speed, +2 Speed, -5 Harvesting)
 * Batcave (+6 Life steal, -6 Harvesting)
 
 ### New Challenges
