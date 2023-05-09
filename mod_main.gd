@@ -30,3 +30,4 @@ func _ready()->void:
 	ContentLoader.load_data(content_dir + "bromato_characters.tres", BROMATO_LOG)
 	ContentLoader.load_data(content_dir + "bromato_items.tres", BROMATO_LOG)
 	ContentLoader.load_data(content_dir + "bromato_challenges.tres", BROMATO_LOG)
+	ContentLoader.load_data(content_dir + "bromato_weapons.tres", BROMATO_LOG)

@@ -20,5 +20,8 @@ Another Brotato Mod.
 ### New Challenges
 * Win a run with Batman (will unlock new Item Batcave)
 
+### New Weapons
+* Frying Pan
+
  ## Notes
  Workshop ID 2973127975
