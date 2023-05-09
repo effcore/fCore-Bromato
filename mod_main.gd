@@ -29,3 +29,4 @@ func _ready()->void:
 	ModLoaderUtils.log_info("Adding content ...", BROMATO_LOG)
 	ContentLoader.load_data(content_dir + "bromato_characters.tres", BROMATO_LOG)
 	ContentLoader.load_data(content_dir + "bromato_items.tres", BROMATO_LOG)
+	ContentLoader.load_data(content_dir + "bromato_challenges.tres", BROMATO_LOG)

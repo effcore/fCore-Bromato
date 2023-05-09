@@ -15,10 +15,10 @@ Another Brotato Mod.
 
 ### New Items
 * Mad Milk (-5 Enemy Speed)
-* (tba)
+* Batcave (+6 Life steal, -6 Harvesting)
 
 ### New Challenges
-* (tba)
+* Win a run with Batman (will unlock new Item Batcave)
 
  ## Notes
  Workshop ID 2973127975
