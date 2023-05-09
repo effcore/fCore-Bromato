@@ -14,6 +14,7 @@ Another Brotato Mod.
 * (tba)
 
 ### New Items
+* Mad Milk (-5 Enemy Speed)
 * (tba)
 
 ### New Challenges

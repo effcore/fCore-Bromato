@@ -1,8 +1,8 @@
 {
 	"name": "Bromato",
 	"namespace": "fCore",
-	"version_number": "0.0.2",
-	"description": "Let's start with a new characters (Baby Groot & Batman)",
+	"version_number": "0.0.3",
+	"description": "This mod adds numerous new characters, items and challenges to Brotato.",
 	"website_url": "https://github.com/effcore/fCore-Bromato.git",
 	"dependencies": [
 		"Darkly77-ContentLoader"
