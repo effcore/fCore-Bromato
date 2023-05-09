@@ -1,5 +1,5 @@
 # Bromato
-Another Brotato Mod.
+Another Brotato Mod. This mod adds numerous new characters, items, weapons and challenges to Brotato.
 
 ![screenshot](.docs/bromato_steam_workshop_logo.png)
 
@@ -11,7 +11,6 @@ Another Brotato Mod.
 ### New Characters
 * Baby Groot
 * Batman
-* (tba)
 
 ### New Items
 * Mad Milk (-5 Enemy Speed)
@@ -21,7 +20,7 @@ Another Brotato Mod.
 * Win a run with Batman (will unlock new Item Batcave)
 
 ### New Weapons
-* Frying Pan
+* Frying Pan (melee)
 
  ## Notes
  Workshop ID 2973127975
