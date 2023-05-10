@@ -28,4 +28,4 @@ Another Brotato Mod. This mod adds numerous new characters, items, weapons and c
 * Frying Pan (melee)
 
  ## Notes
- Workshop ID 2973127975
+ Workshop ID 2973127975, Author Kevin 'fCore' Klein
