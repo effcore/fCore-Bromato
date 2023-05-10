@@ -1,7 +1,8 @@
 keys,aa,en,fr,zh,ja,ko,zh_TW,ru,pl,es,pt,de,tr,it
 CHARACTER_BABYGROOT,characters,Baby Groot,Baby Groot,Baby Groot,Baby Groot,Baby Groot,Baby Groot,Baby Groot,Baby Groot,Baby Groot,Baby Groot,Baby Groot,Baby Groot,Baby Groot
 CHARACTER_BATMAN,characters,Batman,Batman,Batman,Batman,Batman,Batman,Batman,Batman,Batman,Batman,Batman,Batman,Batman
+CHARACTER_ROTTEN,characters,Rotten,Rotten,Rotten,Rotten,Rotten,Rotten,Rotten,Rotten,Rotten,Rotten,Fäule,Rotten,Rotten
 ITEM_MAD_MILK,items,Mad Milk,Mad Milk,Mad Milk,Mad Milk,Mad Milk,Mad Milk,Mad Milk,Mad Milk,Mad Milk,Mad Milk,Saure Milch,Mad Milk,Mad Milk
 ITEM_BAT_CAVE,items,Batcave,Batcave,Batcave,Batcave,Batcave,Batcave,Batcave,Batcave,Batcave,Batcave,Batcave,Batcave,Batcave
-ITEM_ENERGY_DRINK,items,Energy Drink,Energy Drink,Energy Drink,Energy Drink,Energy Drink,Energy Drink,Energy Drink,Energy Drink,Energy Drink,Energy Drink,Energy Drink,Energy Drink,Energy Drink
+ITEM_ENERGY_DRINK,items,com,Energy Drink,Energy Drink,Energy Drink,Energy Drink,Energy Drink,Energy Drink,Energy Drink,Energy Drink,Energy Drink,Energy Drink,Energy Drink,Energy Drink
 WEAPON_FRYING_PAN,weapons,Frying Pan,Frying Pan,Frying Pan,Frying Pan,Frying Pan,Frying Pan,Frying Pan,Frying Pan,Frying Pan,Frying Pan,Bratpfanne,Frying Pan,Frying Pan
