@@ -20,6 +20,7 @@ Another Brotato Mod. This mod adds numerous new characters, items, weapons and c
 * Tooth (+10% chance to heal 1 HP when pickup a Material)
 
 ### New Challenges
+* Win a run with Baby Groot (will unlock new Item Energy Drink)
 * Win a run with Batman (will unlock new Item Batcave)
 * Win a run with Rotten (will unlock new Item Tooth)
 

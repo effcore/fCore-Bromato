@@ -9,7 +9,7 @@
 [resource]
 script = ExtResource( 2 )
 my_id = "item_energy_drink"
-unlocked_by_default = true
+unlocked_by_default = false
 icon = ExtResource( 1 )
 name = "ITEM_ENERGY_DRINK"
 tier = 1
