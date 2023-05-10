@@ -4,9 +4,9 @@
 
 [resource]
 script = ExtResource( 1 )
-key = "burning_spread"
-text_key = "effect_burning_spread"
-value = 5
+key = "heal_when_pickup_gold"
+text_key = "effect_heal_when_pickup_gold"
+value = 10
 custom_key = ""
 storage_method = 0
 effect_sign = 3
