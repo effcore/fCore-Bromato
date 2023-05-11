@@ -18,6 +18,7 @@ Another Brotato Mod. This mod adds numerous new characters, items, weapons and c
 * Energy Drink (+10 Attack Speed, +2 Speed, -2 Max HP)
 * Batcave (+8 Life steal, -4 Harvesting)
 * Tooth (+10% chance to heal 1 HP when pickup a Material)
+* Battery (+1% Attack Speed for every Melee Damage)
 
 ### New Challenges
 * Win a run with Baby Groot (will unlock new Item Energy Drink)
