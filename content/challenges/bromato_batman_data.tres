@@ -1,7 +1,7 @@
 [gd_resource type="Resource" load_steps=4 format=2]
 
 [ext_resource path="res://mods-unpacked/fCore-Bromato/content/items/bat_cave/bromato_bat_cave_data.tres" type="Resource" id=1]
-[ext_resource path="res://mods-unpacked/fCore-Bromato/content/items/bat_cave/bromato_bat_cave_icon.png" type="Texture" id=2]
+[ext_resource path="res://mods-unpacked/fCore-Bromato/content/characters/batman/bromato_batman_icon.png" type="Texture" id=2]
 [ext_resource path="res://challenges/global/challenge_data.gd" type="Script" id=3]
 
 [resource]
@@ -10,7 +10,7 @@ my_id = "chal_batman"
 unlocked_by_default = false
 icon = ExtResource( 2 )
 name = "CHARACTER_BATMAN"
-tier = 1
+tier = 0
 value = 1
 effects = [  ]
 tracking_text = ""
