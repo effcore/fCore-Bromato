@@ -14,6 +14,6 @@ tier = 1
 value = 75
 effects = [ ExtResource( 1 ) ]
 tracking_text = ""
-max_nb = -1
+max_nb = 1
 item_appearances = [  ]
 tags = [ "enemy_speed" ]
