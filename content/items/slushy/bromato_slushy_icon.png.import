@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/bromato_energy_drink_icon.png-9dd32751db861241122c1f2213f87187.stex"
+path="res://.import/bromato_slushy_icon.png-2850fe4d870f0aec3cd1353e4bd3d731.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods-unpacked/fCore-Bromato/content/items/energy_drink/bromato_energy_drink_icon.png"
-dest_files=[ "res://.import/bromato_energy_drink_icon.png-9dd32751db861241122c1f2213f87187.stex" ]
+source_file="res://mods-unpacked/fCore-Bromato/content/items/slushy/bromato_slushy_icon.png"
+dest_files=[ "res://.import/bromato_slushy_icon.png-2850fe4d870f0aec3cd1353e4bd3d731.stex" ]
 
 [params]
 

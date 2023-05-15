@@ -3,7 +3,7 @@
 [ext_resource path="res://mods-unpacked/Darkly77-ContentLoader/content_data.gd" type="Script" id=1]
 [ext_resource path="res://mods-unpacked/fCore-Bromato/content/items/mad_milk/bromato_mad_milk_data.tres" type="Resource" id=2]
 [ext_resource path="res://mods-unpacked/fCore-Bromato/content/items/bat_cave/bromato_bat_cave_data.tres" type="Resource" id=3]
-[ext_resource path="res://mods-unpacked/fCore-Bromato/content/items/energy_drink/bromato_energy_drink_data.tres" type="Resource" id=4]
+[ext_resource path="res://mods-unpacked/fCore-Bromato/content/items/slushy/bromato_slushy_data.tres" type="Resource" id=4]
 [ext_resource path="res://mods-unpacked/fCore-Bromato/content/items/tooth/bromato_tooth_data.tres" type="Resource" id=5]
 [ext_resource path="res://mods-unpacked/fCore-Bromato/content/items/battery/bromato_battery_data.tres" type="Resource" id=6]
 

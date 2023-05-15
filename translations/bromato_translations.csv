@@ -1,10 +1,10 @@
 keys,aa,en,fr,zh,ja,ko,zh_TW,ru,pl,es,pt,de,tr,it
-CHARACTER_BABYGROOT,characters,Baby Groot,Baby Groot,Baby Groot,Baby Groot,Baby Groot,Baby Groot,Baby Groot,Baby Groot,Baby Groot,Baby Groot,Baby Groot,Baby Groot,Baby Groot
-CHARACTER_BATMAN,characters,Batman,Batman,Batman,Batman,Batman,Batman,Batman,Batman,Batman,Batman,Batman,Batman,Batman
-CHARACTER_ROTTEN,characters,Rotten,Rotten,Rotten,Rotten,Rotten,Rotten,Rotten,Rotten,Rotten,Rotten,Fäule,Rotten,Rotten
-ITEM_MAD_MILK,items,Mad Milk,Mad Milk,Mad Milk,Mad Milk,Mad Milk,Mad Milk,Mad Milk,Mad Milk,Mad Milk,Mad Milk,Saure Milch,Mad Milk,Mad Milk
-ITEM_BAT_CAVE,items,Batcave,Batcave,Batcave,Batcave,Batcave,Batcave,Batcave,Batcave,Batcave,Batcave,Batcave,Batcave,Batcave
-ITEM_ENERGY_DRINK,items,Energy Drink,Energy Drink,Energy Drink,Energy Drink,Energy Drink,Energy Drink,Energy Drink,Energy Drink,Energy Drink,Energy Drink,Energy Drink,Energy Drink,Energy Drink
-ITEM_TOOTH,items,Tooth,Tooth,Tooth,Tooth,Tooth,Tooth,Tooth,Tooth,Tooth,Tooth,Zahn,Tooth,Tooth
-ITEM_BATTERY,items,Battery,Battery,Battery,Battery,Battery,Battery,Battery,Battery,Battery,Battery,Batterie,Battery,Battery
-WEAPON_FRYING_PAN,weapons,Frying Pan,Frying Pan,Frying Pan,Frying Pan,Frying Pan,Frying Pan,Frying Pan,Frying Pan,Frying Pan,Frying Pan,Bratpfanne,Frying Pan,Frying Pan
+BROMATO_CHARACTER_BABYGROOT,characters,Baby Groot,Baby Groot,Baby Groot,Baby Groot,Baby Groot,Baby Groot,Baby Groot,Baby Groot,Baby Groot,Baby Groot,Baby Groot,Baby Groot,Baby Groot
+BROMATO_CHARACTER_BATMAN,characters,Batman,Batman,Batman,Batman,Batman,Batman,Batman,Batman,Batman,Batman,Batman,Batman,Batman
+BROMATO_CHARACTER_ROTTEN,characters,Rotten,Rotten,Rotten,Rotten,Rotten,Rotten,Rotten,Rotten,Rotten,Rotten,Fäule,Rotten,Rotten
+BROMATO_ITEM_MAD_MILK,items,Mad Milk,Mad Milk,Mad Milk,Mad Milk,Mad Milk,Mad Milk,Mad Milk,Mad Milk,Mad Milk,Mad Milk,Saure Milch,Mad Milk,Mad Milk
+BROMATO_ITEM_BAT_CAVE,items,Batcave,Batcave,Batcave,Batcave,Batcave,Batcave,Batcave,Batcave,Batcave,Batcave,Batcave,Batcave,Batcave
+BROMATO_ITEM_SLUSHY,items,Slushy,Slushy,Slushy,Slushy,Slushy,Slushy,Slushy,Slushy,Slushy,Slushy,Slushy,Slushy,Slushy
+BROMATO_ITEM_TOOTH,items,Tooth,Tooth,Tooth,Tooth,Tooth,Tooth,Tooth,Tooth,Tooth,Tooth,Zahn,Tooth,Tooth
+BROMATO_ITEM_BATTERY,items,Battery,Battery,Battery,Battery,Battery,Battery,Battery,Battery,Battery,Battery,Batterie,Battery,Battery
+BROMATO_WEAPON_FRYING_PAN,weapons,Frying Pan,Frying Pan,Frying Pan,Frying Pan,Frying Pan,Frying Pan,Frying Pan,Frying Pan,Frying Pan,Frying Pan,Bratpfanne,Frying Pan,Frying Pan

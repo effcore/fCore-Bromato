@@ -1,6 +1,6 @@
 [gd_resource type="Resource" load_steps=4 format=2]
 
-[ext_resource path="res://mods-unpacked/fCore-Bromato/content/items/energy_drink/bromato_energy_drink_data.tres" type="Resource" id=1]
+[ext_resource path="res://mods-unpacked/fCore-Bromato/content/items/slushy/bromato_slushy_data.tres" type="Resource" id=1]
 [ext_resource path="res://mods-unpacked/fCore-Bromato/content/characters/babygroot/bromato_babygroot_icon.png" type="Texture" id=2]
 [ext_resource path="res://challenges/global/challenge_data.gd" type="Script" id=3]
 
@@ -9,7 +9,7 @@ script = ExtResource( 3 )
 my_id = "chal_babygroot"
 unlocked_by_default = false
 icon = ExtResource( 2 )
-name = "CHARACTER_BABYGROOT"
+name = "BROMATO_CHARACTER_BABYGROOT"
 tier = 0
 value = 1
 effects = [  ]
