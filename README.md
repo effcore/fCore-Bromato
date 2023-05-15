@@ -12,18 +12,20 @@ Another Brotato Mod. This mod adds numerous new characters, items, weapons and c
 * Baby Groot
 * Batman
 * Rotten
+* Monk
 
 ### New Items
-* Mad Milk (-5 Enemy Speed)
-* Energy Drink (+10 Attack Speed, +2 Speed, -2 Max HP)
+* Slushy (+10 Attack Speed, +2 Speed, -2 Max HP)
 * Batcave (+8 Life steal, -4 Harvesting)
 * Tooth (+10% chance to heal 1 HP when pickup a Material)
+* Mad Milk (-5 Enemy Speed)
 * Battery (+1% Attack Speed for every Melee Damage)
 
 ### New Challenges
-* Win a run with Baby Groot (will unlock new Item Energy Drink)
+* Win a run with Baby Groot (will unlock new Item Slushy)
 * Win a run with Batman (will unlock new Item Batcave)
 * Win a run with Rotten (will unlock new Item Tooth)
+* Win a run with Monk (will unlock new Item Battery)
 
 ### New Weapons
 * Frying Pan (melee)

@@ -1,7 +1,7 @@
 {
 	"name": "Bromato",
 	"namespace": "fCore",
-	"version_number": "0.0.5",
+	"version_number": "0.0.6",
 	"description": "This mod adds numerous new characters, items, weapons and challenges to Brotato.",
 	"website_url": "https://github.com/effcore/fCore-Bromato.git",
 	"dependencies": [
