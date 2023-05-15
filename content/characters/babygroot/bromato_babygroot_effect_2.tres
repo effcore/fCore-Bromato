@@ -12,4 +12,4 @@ storage_method = 0
 effect_sign = 3
 custom_args = [  ]
 stat_displayed = "stat_dodge"
-stats_modified = [ "stat_max_hp" ]
+stats_modified = [ "stat_dodge" ]
