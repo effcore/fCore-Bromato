@@ -1,14 +1,15 @@
-[gd_resource type="Resource" load_steps=5 format=2]
+[gd_resource type="Resource" load_steps=6 format=2]
 
 [ext_resource path="res://mods-unpacked/Darkly77-ContentLoader/content_data.gd" type="Script" id=1]
 [ext_resource path="res://mods-unpacked/fCore-Bromato/content/characters/babygroot/bromato_babygroot_data.tres" type="Resource" id=2]
 [ext_resource path="res://mods-unpacked/fCore-Bromato/content/characters/batman/bromato_batman_data.tres" type="Resource" id=3]
 [ext_resource path="res://mods-unpacked/fCore-Bromato/content/characters/rotten/bromato_rotten_data.tres" type="Resource" id=4]
+[ext_resource path="res://mods-unpacked/fCore-Bromato/content/characters/monk/bromato_monk_data.tres" type="Resource" id=5]
 
 [resource]
 resource_name = "Bromato_Characters"
 script = ExtResource( 1 )
-characters = [ ExtResource( 2 ), ExtResource( 3 ), ExtResource( 4 ) ]
+characters = [ ExtResource( 2 ), ExtResource( 3 ), ExtResource( 4 ), ExtResource( 5 ) ]
 items = [  ]
 weapons = [  ]
 weapons_characters = [  ]
