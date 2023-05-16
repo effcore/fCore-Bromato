@@ -16,4 +16,4 @@ effects = [ ExtResource( 3 ) ]
 tracking_text = ""
 max_nb = 1
 item_appearances = [  ]
-tags = [ "attack_speed", "speed", "harvesting" ]
+tags = [ "stat_attack_speed" ]

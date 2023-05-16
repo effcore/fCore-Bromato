@@ -17,4 +17,4 @@ effects = [ ExtResource( 2 ), ExtResource( 3 ) ]
 tracking_text = ""
 max_nb = -1
 item_appearances = [  ]
-tags = [ "stat_lifesteal" ]
+tags = [ "stat_lifesteal", "stat_harvesting" ]
