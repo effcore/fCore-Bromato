@@ -29,5 +29,5 @@ tracking_text = ""
 max_nb = -1
 item_appearances = [ ExtResource( 10 ), ExtResource( 6 ), ExtResource( 7 ) ]
 tags = [  ]
-wanted_tags = [  ]
+wanted_tags = [ "melee_damage" ]
 starting_weapons = [ ExtResource( 2 ), ExtResource( 12 ), ExtResource( 15 ), ExtResource( 13 ), ExtResource( 14 ) ]

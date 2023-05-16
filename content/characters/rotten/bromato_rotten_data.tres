@@ -31,5 +31,5 @@ tracking_text = ""
 max_nb = -1
 item_appearances = [ ExtResource( 6 ), ExtResource( 4 ), ExtResource( 5 ) ]
 tags = [  ]
-wanted_tags = [  ]
+wanted_tags = [ "hp_regeneration" ]
 starting_weapons = [ ExtResource( 15 ), ExtResource( 13 ), ExtResource( 12 ), ExtResource( 2 ), ExtResource( 14 ), ExtResource( 16 ), ExtResource( 17 ) ]
