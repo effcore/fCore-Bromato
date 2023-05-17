@@ -1,9 +1,10 @@
-[gd_resource type="Resource" load_steps=5 format=2]
+[gd_resource type="Resource" load_steps=6 format=2]
 
 [ext_resource path="res://mods-unpacked/Darkly77-ContentLoader/content_data.gd" type="Script" id=1]
 [ext_resource path="res://mods-unpacked/fCore-Bromato/content/challenges/bromato_batman_data.tres" type="Resource" id=2]
 [ext_resource path="res://mods-unpacked/fCore-Bromato/content/challenges/bromato_rotten_data.tres" type="Resource" id=3]
 [ext_resource path="res://mods-unpacked/fCore-Bromato/content/challenges/bromato_babygroot_data.tres" type="Resource" id=4]
+[ext_resource path="res://mods-unpacked/fCore-Bromato/content/challenges/bromato_monk_data.tres" type="Resource" id=5]
 
 [resource]
 resource_name = "Bromato_Challenges"
@@ -13,7 +14,7 @@ items = [  ]
 weapons = [  ]
 weapons_characters = [  ]
 sets = [  ]
-challenges = [ ExtResource( 4 ), ExtResource( 2 ), ExtResource( 3 ) ]
+challenges = [ ExtResource( 4 ), ExtResource( 2 ), ExtResource( 3 ), ExtResource( 5 ) ]
 upgrades = [  ]
 consumables = [  ]
 elites = [  ]
