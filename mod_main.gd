@@ -38,8 +38,14 @@ func _ready()->void:
 	var content_dir = "res://mods-unpacked/" + MYMODNAME_MOD_DIR + "content_data/"
 
 	# Add content. These .tres files are ContentData resources
-	ModLoaderUtils.log_info("Adding content ...", BROMATO_LOG)
+	ModLoaderUtils.log_info("Adding characters ...", BROMATO_LOG)
 	ContentLoader.load_data(content_dir + "bromato_characters.tres", BROMATO_LOG)
+	
+	ModLoaderUtils.log_info("Adding items ...", BROMATO_LOG)
 	ContentLoader.load_data(content_dir + "bromato_items.tres", BROMATO_LOG)
+	
+	ModLoaderUtils.log_info("Adding challenges ...", BROMATO_LOG)
 	ContentLoader.load_data(content_dir + "bromato_challenges.tres", BROMATO_LOG)
+	
+	ModLoaderUtils.log_info("Adding weapons ...", BROMATO_LOG)
 	ContentLoader.load_data(content_dir + "bromato_weapons.tres", BROMATO_LOG)
