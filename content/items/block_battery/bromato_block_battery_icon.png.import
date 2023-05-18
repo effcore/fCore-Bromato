@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/bromato_battery_icon.png-3939ae36248e7eb3431e696f6e36a171.stex"
+path="res://.import/bromato_block_battery_icon.png-41552f7d54c71e84d271fcdc4bc456f2.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods-unpacked/fCore-Bromato/content/items/battery/bromato_battery_icon.png"
-dest_files=[ "res://.import/bromato_battery_icon.png-3939ae36248e7eb3431e696f6e36a171.stex" ]
+source_file="res://mods-unpacked/fCore-Bromato/content/items/block_battery/bromato_block_battery_icon.png"
+dest_files=[ "res://.import/bromato_block_battery_icon.png-41552f7d54c71e84d271fcdc4bc456f2.stex" ]
 
 [params]
 

@@ -1,6 +1,6 @@
 [gd_resource type="Resource" load_steps=4 format=2]
 
-[ext_resource path="res://mods-unpacked/fCore-Bromato/content/items/battery/bromato_battery_data.tres" type="Resource" id=1]
+[ext_resource path="res://mods-unpacked/fCore-Bromato/content/items/block_battery/bromato_block_battery_data.tres" type="Resource" id=1]
 [ext_resource path="res://mods-unpacked/fCore-Bromato/content/characters/monk/bromato_monk_icon.png" type="Texture" id=2]
 [ext_resource path="res://challenges/global/challenge_data.gd" type="Script" id=3]
 
